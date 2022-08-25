@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuário\\desktop\\atalhos\\patrimoniosenaitaguatinga\\PatrimonioSenaiTaguatinga.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\Atalhos\\PatrimonioSenaiTaguatinga\\PatrimonioSenaiTaguatinga.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuário\\desktop\\atalhos\\patrimoniosenaitaguatinga\\PatrimonioSenaiTaguatinga.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\Atalhos\\PatrimonioSenaiTaguatinga\\PatrimonioSenaiTaguatinga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuário\\desktop\\atalhos\\patrimoniosenaitaguatinga\\PatrimonioSenaiTaguatinga.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Atalhos\\PatrimonioSenaiTaguatinga\\PatrimonioSenaiTaguatinga.csproj",
         "projectName": "PatrimonioSenaiTaguatinga",
-        "projectPath": "C:\\Users\\Usuário\\desktop\\atalhos\\patrimoniosenaitaguatinga\\PatrimonioSenaiTaguatinga.csproj",
-        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuário\\desktop\\atalhos\\patrimoniosenaitaguatinga\\obj\\",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\Atalhos\\PatrimonioSenaiTaguatinga\\PatrimonioSenaiTaguatinga.csproj",
+        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\Atalhos\\PatrimonioSenaiTaguatinga\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,6 +50,12 @@
               "target": "Package",
               "version": "[6.0.8, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -61,7 +67,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -73,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

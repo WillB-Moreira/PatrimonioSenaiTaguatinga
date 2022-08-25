@@ -11,8 +11,8 @@ public class Usuario
         IdNivel = idNivel;
     }
     public int Id { get; set; }
-    public string nome { get; set; }
-    public string SobreNome { get; set; }
+    public string Nome { get; set; }
+    public string Sobrenome { get; set; }
     public string Login { get; set; }
     public string Senha { get; set; }
     public int IdNivel { get; set; }
