@@ -25,3 +25,13 @@ C:\Users\Aluno\desktop\atalhos\PatrimonioSenaiTaguatinga\obj\Debug\net6.0\refint
 C:\Users\Aluno\desktop\atalhos\PatrimonioSenaiTaguatinga\obj\Debug\net6.0\PatrimonioSenaiTaguatinga.pdb
 C:\Users\Aluno\desktop\atalhos\PatrimonioSenaiTaguatinga\obj\Debug\net6.0\PatrimonioSenaiTaguatinga.genruntimeconfig.cache
 C:\Users\Aluno\desktop\atalhos\PatrimonioSenaiTaguatinga\obj\Debug\net6.0\ref\PatrimonioSenaiTaguatinga.dll
+C:\Users\Usuário\desktop\atalhos\patrimoniosenaitaguatinga\obj\Debug\net6.0\PatrimonioSenaiTaguatinga.csproj.AssemblyReference.cache
+C:\Users\Usuário\desktop\atalhos\patrimoniosenaitaguatinga\obj\Debug\net6.0\PatrimonioSenaiTaguatinga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\desktop\atalhos\patrimoniosenaitaguatinga\obj\Debug\net6.0\PatrimonioSenaiTaguatinga.AssemblyInfoInputs.cache
+C:\Users\Usuário\desktop\atalhos\patrimoniosenaitaguatinga\obj\Debug\net6.0\PatrimonioSenaiTaguatinga.AssemblyInfo.cs
+C:\Users\Usuário\desktop\atalhos\patrimoniosenaitaguatinga\obj\Debug\net6.0\PatrimonioSenaiTaguatinga.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\desktop\atalhos\patrimoniosenaitaguatinga\obj\Debug\net6.0\PatrimonioSenaiTaguatinga.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuário\desktop\atalhos\patrimoniosenaitaguatinga\obj\Debug\net6.0\PatrimonioSenaiTaguatinga.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuário\desktop\atalhos\patrimoniosenaitaguatinga\obj\Debug\net6.0\PatrimonioSenaiTaguatinga.dll
+C:\Users\Usuário\desktop\atalhos\patrimoniosenaitaguatinga\obj\Debug\net6.0\refint\PatrimonioSenaiTaguatinga.dll
+C:\Users\Usuário\desktop\atalhos\patrimoniosenaitaguatinga\obj\Debug\net6.0\PatrimonioSenaiTaguatinga.pdb
